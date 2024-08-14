@@ -1,5 +1,5 @@
 import clsx from "clsx";
-import { useAppearanceDelay } from "../lib/react";
+import { useAppearanceDelay } from "../../lib/react";
 import { UiSpinner } from "./spinner";
 
 export function UiPageSpinner({
