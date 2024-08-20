@@ -1,0 +1,15 @@
+export const ROUTER_PATHS = {
+  HOME: "/",
+  PROFILE: "/profile",
+  CART: "/cart",
+  DELIVERY: "/delivery",
+  PAYMENT: "/payment",
+  CONTACTS: "/contacts",
+  CATALOG: "/catalog",
+  PRODUCT: "/product",
+  SEARCH: "/search",
+  REGISTRATION: "/registration",
+  LOGIN: "/login",
+  NOT_FOUND: "/404",
+  SERVER_ERROR: "/500",
+} as const;
